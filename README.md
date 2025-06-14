@@ -1,6 +1,8 @@
 <h1 align='center'> Prasan Kumar </h1>
 <h6 align='center'>Frontend Dev | Aspiring SDE | Computer Science & Engineering student <br></h6>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanKumar1101&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## What I Offer
 - Proficiency in Problem Solving, Web-Development, Building AI softwares and scalable projects
 - A keen eye for detail and a commitment to producing well-documented, high-quality code.
@@ -32,13 +34,5 @@ Currently, I am dedicated to expanding my knowledge and skills in AI and deep le
 ## Contact Information
 - **Email**: [Send a mail](prasan.kumar1101@gmail.com)
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/prasan-kumar-b96413292/)
-
-# 👋 Hi, I'm Prasan Kumar
-
-[![GFG Problems Solved](https://img.shields.io/badge/GFG_Problems_Solved-97-brightgreen)](https://github.com/PrasanKumar1101/gfg-solutions)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanKumar1101&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-Aspiring SDE | C++ | MERN | DSA | Projects 🚀
-
 
 Feel free to reach out to me via email or connect with me on LinkedIn. I am excited to engage in meaningful conversations, collaborations, and opportunities for growth.
