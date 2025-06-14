@@ -33,4 +33,12 @@ Currently, I am dedicated to expanding my knowledge and skills in AI and deep le
 - **Email**: [Send a mail](prasan.kumar1101@gmail.com)
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/prasan-kumar-b96413292/)
 
+# 👋 Hi, I'm Prasan Kumar
+
+[![GFG Problems Solved](https://img.shields.io/badge/GFG_Problems_Solved-97-brightgreen)](https://github.com/PrasanKumar1101/gfg-solutions)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanKumar1101&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Aspiring SDE | C++ | MERN | DSA | Projects 🚀
+
+
 Feel free to reach out to me via email or connect with me on LinkedIn. I am excited to engage in meaningful conversations, collaborations, and opportunities for growth.
