@@ -1,7 +1,6 @@
 <h1 align='center'> Prasan Kumar </h1>
 <h6 align='center'>Frontend Dev | Aspiring SDE | Computer Science & Engineering student <br></h6>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanKumar1101&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## What I Offer
 - Proficiency in Problem Solving, Web-Development, Building AI softwares and scalable projects
